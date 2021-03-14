@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Time.cpp
+D:\1 курс\ООП\2.1\2.1\Time.cpp(64,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1 курс\ООП\2.1\2.1\Time.cpp(63,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  2.1.vcxproj -> D:\1 курс\ООП\2.1\Debug\2.1.exe
