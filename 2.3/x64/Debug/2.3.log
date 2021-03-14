@@ -1,0 +1,6 @@
+﻿  Point.cpp
+D:\1 курс\ООП\2.3\2.3\Point.cpp(97,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+D:\1 курс\ООП\2.3\2.3\Point.cpp(112): warning C4172: returning address of local variable or temporary: s
+  2.3.vcxproj -> D:\1 курс\ООП\2.3\x64\Debug\2.3.exe
