@@ -1,0 +1,8 @@
+﻿  Point.cpp
+D:\1 курс\ООП\2.7\2.7\Point.cpp(84,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Triangle.cpp
+D:\1 курс\ООП\2.7\2.7\Triangle.cpp(132,18): warning C4805: '!=': unsafe mix of type 'bool' and type 'double' in operation
+  Generating Code...
+D:\1 курс\ООП\2.7\2.7\Point.cpp(99): warning C4172: returning address of local variable or temporary: s
+  2.7.vcxproj -> D:\1 курс\ООП\2.7\Debug\2.7.exe
