@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Triangle.cpp
+D:\1 курс\ООП\2.8\2.8\Triangle.cpp(141,18): warning C4805: '!=': unsafe mix of type 'bool' and type 'double' in operation
+D:\1 курс\ООП\2.8\2.8\Triangle.cpp(284,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\1 курс\ООП\2.8\2.8\Triangle.cpp(299): warning C4172: returning address of local variable or temporary: s
+  2.8.vcxproj -> D:\1 курс\ООП\2.8\Debug\2.8.exe

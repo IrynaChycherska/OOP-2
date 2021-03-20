@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest2.8.cpp
+D:\1 курс\ООП\2.8\2.8\Triangle.cpp(141,18): warning C4805: '!=': unsafe mix of type 'bool' and type 'double' in operation
+D:\1 курс\ООП\2.8\2.8\Triangle.cpp(284,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\1 курс\ООП\2.8\2.8\Triangle.cpp(299): warning C4172: returning address of local variable or temporary: s
+     Creating library D:\1 курс\ООП\2.8\Debug\UnitTest2.8.lib and object D:\1 курс\ООП\2.8\Debug\UnitTest2.8.exp
+  UnitTest2.8.vcxproj -> D:\1 курс\ООП\2.8\Debug\UnitTest2.8.dll
